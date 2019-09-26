@@ -2,7 +2,7 @@
 
 Available on Dockerhub
 
-https://cloud.docker.com/u/sansarip/repository/docker/sansarip/phoenix-builder
+https://hub.docker.com/r/sansarip/phoenix-builder
 
 *OR*
 
